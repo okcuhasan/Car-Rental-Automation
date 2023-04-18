@@ -1,0 +1,16 @@
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.AssemblyReference.cache
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAnaSayfa.resources
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.Properties.Resources.resources
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.GenerateResource.cache
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.pdb
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriEkle.resources
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriListele.resources
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçKayıt.resources
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçListele.resources
+C:\Users\90554\source\repos\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSözleşme.resources
